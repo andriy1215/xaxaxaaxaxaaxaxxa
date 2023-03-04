@@ -1,0 +1,138 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    background-color:#AC13A6;
+    padding: 10px 0px 10px 0px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    float: right;
+    margin: 10px 20px 0px 0px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-around;
+    color: white;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    margin: 0px;
+    display: flex;
+    margin-bottom: 0px;
+    justify-content: center;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: ;
+}
+
+
+footer {
+    background-color: #AC13A6;
+    display: flex;
+    padding:10px 0px 10px 0px;
+    
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+.img{
+    margin: 0px 0px 0px 10px;
+}
+
+.one{
+    border-radius: 32px ;
+    text-align: center;
+    margin: 0px 50px 50px 0px;
+    padding-bottom: 40px;
+}
+
+.foto{
+    width: 350px;
+}
+
+.nov{
+     text-decoration: none;
+    background-color: green;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    color: white;
+}  
+
+.article-but {
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+.telefon{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;    
+}
+
+.tex{
+    text-decoration: none;
+    background-color: violet;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+.van{
+    margin-top: 10px;   
+    margin-right: 20px; 
+    margin-left: 5px;
+}
